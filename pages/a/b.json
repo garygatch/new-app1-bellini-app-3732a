@@ -1,5 +1,21 @@
 {
-  "children": [],
+  "children": [
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    }
+  ],
   "name": "b",
   "params": {},
   "parentDirectoryId": "CwddZnlUlIqBB6-5kaOKO",
