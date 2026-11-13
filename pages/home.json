@@ -1,0 +1,15 @@
+{
+  "children": [],
+  "name": "home",
+  "params": {},
+  "type": "page",
+  "url": "/home",
+  "variables": [
+    {
+      "id": "open-api",
+      "name": "pet",
+      "resourceIdentity": "apis/pet",
+      "type": "open-api"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "config": {
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "environments": [],
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "themes": []
+  },
+  "defaultPage": "home",
+  "directories": {
+    "assets": [],
+    "components": [
+      {
+        "id": "saTVpcPnT8_UGvNri1q05",
+        "name": "a"
+      },
+      {
+        "id": "orJr4DBT7-R2EFegcZdJM",
+        "name": "b"
+      }
+    ],
+    "pages": [
+      {
+        "id": "CwddZnlUlIqBB6-5kaOKO",
+        "name": "a"
+      }
+    ],
+    "scripts": [],
+    "services": [],
+    "stylesheets": []
+  },
+  "localScripts": [
+    {
+      "path": "a.js"
+    },
+    {
+      "path": "aa.js"
+    }
+  ],
+  "localStylesheets": [
+    {
+      "path": "aa.css"
+    },
+    {
+      "path": "bb.css"
+    }
+  ],
+  "name": "new-app1",
+  "type": "app"
+}
