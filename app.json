@@ -41,17 +41,21 @@
   },
   "localScripts": [
     {
+      "order": 4,
       "path": "a.js"
     },
     {
+      "order": 3,
       "path": "aa.js"
     }
   ],
   "localStylesheets": [
     {
+      "order": 2,
       "path": "aa.css"
     },
     {
+      "order": 1,
       "path": "bb.css"
     }
   ],
